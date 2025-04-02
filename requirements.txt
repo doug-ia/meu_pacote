@@ -1,0 +1,7 @@
+"""
+Usado para passar as dependencias que devem ser instaladas com o seu pacote. Opcionalmente, podem ser especificadas as versões
+"""
+
+matplotlib
+numpy
+scikit-image >= 0.16.1
