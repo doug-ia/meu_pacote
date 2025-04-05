@@ -1,35 +1,10 @@
-# package_name
+# Meu Pacote
 
-Description. 
-The package package_name is used to:
-	Processing:
-		- Histogram matching
-		- Structural similarity
-		- Resize image
-	Utils:
-		- Read image
-		- Save image
-		- Plot image
-		- Plot result
-		- Plot histogram
+Este é um pacote simples para dizer olá! 👋
 
-## Installation
+## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Você pode instalar o pacote usando o pip:
 
 ```bash
-pip install image_processing
-```
-
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
-
-## Author
-Jonatan
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+pip install meu_pacote
