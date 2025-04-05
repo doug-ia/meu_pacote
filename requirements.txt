@@ -4,4 +4,4 @@ Usado para passar as dependencias que devem ser instaladas com o seu pacote. Opc
 
 matplotlib
 numpy
-scikit-image >= 0.16.1
+scikit-image
