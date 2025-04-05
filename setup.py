@@ -3,9 +3,10 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as f:
     page_description = f.read()
 
+
 setup(
     name="meu_pacote",  # Nome do pacote no PyPI
-    version="0.0.1",
+    version="0.0.3",
     author="doug.ia",
     author_email="seuemail@example.com",
     description="Um pacote simples para dizer olá",
